@@ -1,0 +1,135 @@
+{"name": "search", "timestamp": 1515212404, "properites": {"user_id": 18081488, "query": "jewelry"}}
+{"name": "view", "timestamp": 1515212413, "properites": {"user_id": 18081488, "item_id": 791762}}
+{"name": "search", "timestamp": 1515212415, "properites": {"user_id": 18081488, "query": "dog toys"}}
+{"name": "view", "timestamp": 1515212420, "properites": {"user_id": 18081488, "item_id": 155426}}
+{"name": "search", "timestamp": 1515212422, "properites": {"user_id": 18081488, "query": "glassware"}}
+{"name": "view", "timestamp": 1515212431, "properites": {"user_id": 18081488, "item_id": 327828}}
+{"name": "search", "timestamp": 1515212401, "properites": {"user_id": 50464262, "query": "jewelry"}}
+{"name": "view", "timestamp": 1515212409, "properites": {"user_id": 50464262, "item_id": 609159}}
+{"name": "add_to_cart", "timestamp": 1515212410, "properites": {"user_id": 50464262, "item_id": 609159}}
+{"name": "checkout", "timestamp": 1515212449, "properites": {"user_id": 50464262, "price": 2.43, "item_ids": [609159]}}
+{"name": "search", "timestamp": 1515212405, "properites": {"user_id": 59108525, "query": "rings"}}
+{"name": "view", "timestamp": 1515212414, "properites": {"user_id": 59108525, "item_id": 862829}}
+{"name": "add_to_cart", "timestamp": 1515212415, "properites": {"user_id": 59108525, "item_id": 862829}}
+{"name": "checkout", "timestamp": 1515212475, "properites": {"user_id": 59108525, "price": 16.82, "item_ids": [862829]}}
+{"name": "search", "timestamp": 1515212476, "properites": {"user_id": 59108525, "query": "shirts"}}
+{"name": "view", "timestamp": 1515212481, "properites": {"user_id": 59108525, "item_id": 327828}}
+{"name": "add_to_cart", "timestamp": 1515212482, "properites": {"user_id": 59108525, "item_id": 327828}}
+{"name": "checkout", "timestamp": 1515212542, "properites": {"user_id": 59108525, "price": 28.950000000000003, "item_ids": [862829, 327828]}}
+{"name": "search", "timestamp": 1515212401, "properites": {"user_id": 31728935, "query": "jewelry"}}
+{"name": "view", "timestamp": 1515212409, "properites": {"user_id": 31728935, "item_id": 791762}}
+{"name": "view", "timestamp": 1515212417, "properites": {"user_id": 31728935, "item_id": 791762}}
+{"name": "search", "timestamp": 1515212418, "properites": {"user_id": 31728935, "query": "jewelry"}}
+{"name": "view", "timestamp": 1515212427, "properites": {"user_id": 31728935, "item_id": 523891}}
+{"name": "search", "timestamp": 1515212428, "properites": {"user_id": 31728935, "query": "cards"}}
+{"name": "view", "timestamp": 1515212435, "properites": {"user_id": 31728935, "item_id": 862829}}
+{"name": "view", "timestamp": 1515212443, "properites": {"user_id": 31728935, "item_id": 862829}}
+{"name": "view", "timestamp": 1515212450, "properites": {"user_id": 31728935, "item_id": 862829}}
+{"name": "add_to_cart", "timestamp": 1515212451, "properites": {"user_id": 31728935, "item_id": 862829}}
+{"name": "checkout", "timestamp": 1515212486, "properites": {"user_id": 31728935, "price": 16.82, "item_ids": [862829]}}
+{"name": "search", "timestamp": 1515212406, "properites": {"user_id": 82419332, "query": "jewelry"}}
+{"name": "search", "timestamp": 1515212407, "properites": {"user_id": 82419332, "query": "shirts"}}
+{"name": "search", "timestamp": 1515212410, "properites": {"user_id": 82419332, "query": "rings"}}
+{"name": "search", "timestamp": 1515212412, "properites": {"user_id": 82419332, "query": "rings"}}
+{"name": "search", "timestamp": 1515212414, "properites": {"user_id": 82419332, "query": "jewelry"}}
+{"name": "search", "timestamp": 1515212404, "properites": {"user_id": 644272, "query": "jewelry"}}
+{"name": "view", "timestamp": 1515212414, "properites": {"user_id": 644272, "item_id": 155426}}
+{"name": "add_to_cart", "timestamp": 1515212415, "properites": {"user_id": 644272, "item_id": 155426}}
+{"name": "checkout", "timestamp": 1515212473, "properites": {"user_id": 644272, "price": 20.36, "item_ids": [155426]}}
+{"name": "search", "timestamp": 1515212475, "properites": {"user_id": 644272, "query": "jewelry"}}
+{"name": "view", "timestamp": 1515212484, "properites": {"user_id": 644272, "item_id": 285063}}
+{"name": "add_to_cart", "timestamp": 1515212485, "properites": {"user_id": 644272, "item_id": 285063}}
+{"name": "checkout", "timestamp": 1515212530, "properites": {"user_id": 644272, "price": 35.53, "item_ids": [155426, 285063]}}
+{"name": "search", "timestamp": 1515212406, "properites": {"user_id": 31728935, "query": "jewelry"}}
+{"name": "view", "timestamp": 1515212414, "properites": {"user_id": 31728935, "item_id": 451727}}
+{"name": "add_to_cart", "timestamp": 1515212415, "properites": {"user_id": 31728935, "item_id": 451727}}
+{"name": "search", "timestamp": 1515212417, "properites": {"user_id": 31728935, "query": "dog toys"}}
+{"name": "view", "timestamp": 1515212426, "properites": {"user_id": 31728935, "item_id": 862829}}
+{"name": "add_to_cart", "timestamp": 1515212427, "properites": {"user_id": 31728935, "item_id": 862829}}
+{"name": "checkout", "timestamp": 1515212475, "properites": {"user_id": 31728935, "price": 27.65, "item_ids": [451727, 862829]}}
+{"name": "search", "timestamp": 1515212404, "properites": {"user_id": 18081488, "query": "dog toys"}}
+{"name": "view", "timestamp": 1515212412, "properites": {"user_id": 18081488, "item_id": 862829}}
+{"name": "add_to_cart", "timestamp": 1515212413, "properites": {"user_id": 18081488, "item_id": 862829}}
+{"name": "checkout", "timestamp": 1515212446, "properites": {"user_id": 18081488, "price": 16.82, "item_ids": [862829]}}
+{"name": "search", "timestamp": 1515212405, "properites": {"user_id": 32229078, "query": "rings"}}
+{"name": "search", "timestamp": 1515212407, "properites": {"user_id": 32229078, "query": "rings"}}
+{"name": "search", "timestamp": 1515212408, "properites": {"user_id": 32229078, "query": "rings"}}
+{"name": "search", "timestamp": 1515212410, "properites": {"user_id": 32229078, "query": "cards"}}
+{"name": "search", "timestamp": 1515212412, "properites": {"user_id": 32229078, "query": "jewelry"}}
+{"name": "search", "timestamp": 1515212406, "properites": {"user_id": 31728935, "query": "glassware"}}
+{"name": "view", "timestamp": 1515212414, "properites": {"user_id": 31728935, "item_id": 523891}}
+{"name": "search", "timestamp": 1515212417, "properites": {"user_id": 31728935, "query": "dog toys"}}
+{"name": "view", "timestamp": 1515212426, "properites": {"user_id": 31728935, "item_id": 791762}}
+{"name": "search", "timestamp": 1515212429, "properites": {"user_id": 31728935, "query": "cards"}}
+{"name": "view", "timestamp": 1515212435, "properites": {"user_id": 31728935, "item_id": 862829}}
+{"name": "search", "timestamp": 1515212404, "properites": {"user_id": 26266189, "query": "glassware"}}
+{"name": "view", "timestamp": 1515212413, "properites": {"user_id": 26266189, "item_id": 695215}}
+{"name": "add_to_cart", "timestamp": 1515212414, "properites": {"user_id": 26266189, "item_id": 695215}}
+{"name": "search", "timestamp": 1515212415, "properites": {"user_id": 26266189, "query": "cards"}}
+{"name": "view", "timestamp": 1515212420, "properites": {"user_id": 26266189, "item_id": 451727}}
+{"name": "add_to_cart", "timestamp": 1515212421, "properites": {"user_id": 26266189, "item_id": 451727}}
+{"name": "checkout", "timestamp": 1515212481, "properites": {"user_id": 26266189, "price": 16.86, "item_ids": [695215, 451727]}}
+{"name": "search", "timestamp": 1515212402, "properites": {"user_id": 644272, "query": "jewelry"}}
+{"name": "search", "timestamp": 1515212405, "properites": {"user_id": 644272, "query": "rings"}}
+{"name": "search", "timestamp": 1515212406, "properites": {"user_id": 644272, "query": "rings"}}
+{"name": "search", "timestamp": 1515212407, "properites": {"user_id": 644272, "query": "glassware"}}
+{"name": "search", "timestamp": 1515212409, "properites": {"user_id": 644272, "query": "shirts"}}
+{"name": "search", "timestamp": 1515212401, "properites": {"user_id": 78339749, "query": "rings"}}
+{"name": "view", "timestamp": 1515212409, "properites": {"user_id": 78339749, "item_id": 327828}}
+{"name": "view", "timestamp": 1515212415, "properites": {"user_id": 78339749, "item_id": 327828}}
+{"name": "search", "timestamp": 1515212417, "properites": {"user_id": 78339749, "query": "rings"}}
+{"name": "view", "timestamp": 1515212427, "properites": {"user_id": 78339749, "item_id": 523891}}
+{"name": "search", "timestamp": 1515212430, "properites": {"user_id": 78339749, "query": "glassware"}}
+{"name": "view", "timestamp": 1515212438, "properites": {"user_id": 78339749, "item_id": 285063}}
+{"name": "view", "timestamp": 1515212446, "properites": {"user_id": 78339749, "item_id": 285063}}
+{"name": "view", "timestamp": 1515212456, "properites": {"user_id": 78339749, "item_id": 285063}}
+{"name": "add_to_cart", "timestamp": 1515212457, "properites": {"user_id": 78339749, "item_id": 285063}}
+{"name": "checkout", "timestamp": 1515212510, "properites": {"user_id": 78339749, "price": 15.17, "item_ids": [285063]}}
+{"name": "search", "timestamp": 1515212404, "properites": {"user_id": 50464262, "query": "cards"}}
+{"name": "view", "timestamp": 1515212414, "properites": {"user_id": 50464262, "item_id": 791762}}
+{"name": "search", "timestamp": 1515212415, "properites": {"user_id": 50464262, "query": "glassware"}}
+{"name": "view", "timestamp": 1515212423, "properites": {"user_id": 50464262, "item_id": 609159}}
+{"name": "search", "timestamp": 1515212425, "properites": {"user_id": 50464262, "query": "cards"}}
+{"name": "view", "timestamp": 1515212435, "properites": {"user_id": 50464262, "item_id": 155426}}
+{"name": "search", "timestamp": 1515212401, "properites": {"user_id": 59108525, "query": "dog toys"}}
+{"name": "search", "timestamp": 1515212403, "properites": {"user_id": 59108525, "query": "shirts"}}
+{"name": "search", "timestamp": 1515212404, "properites": {"user_id": 59108525, "query": "dog toys"}}
+{"name": "search", "timestamp": 1515212406, "properites": {"user_id": 59108525, "query": "glassware"}}
+{"name": "search", "timestamp": 1515212409, "properites": {"user_id": 59108525, "query": "glassware"}}
+{"name": "search", "timestamp": 1515212405, "properites": {"user_id": 18081488, "query": "dog toys"}}
+{"name": "view", "timestamp": 1515212412, "properites": {"user_id": 18081488, "item_id": 451727}}
+{"name": "search", "timestamp": 1515212414, "properites": {"user_id": 18081488, "query": "shirts"}}
+{"name": "view", "timestamp": 1515212422, "properites": {"user_id": 18081488, "item_id": 523891}}
+{"name": "search", "timestamp": 1515212424, "properites": {"user_id": 18081488, "query": "dog toys"}}
+{"name": "view", "timestamp": 1515212429, "properites": {"user_id": 18081488, "item_id": 327828}}
+{"name": "search", "timestamp": 1515212405, "properites": {"user_id": 18081488, "query": "shirts"}}
+{"name": "view", "timestamp": 1515212414, "properites": {"user_id": 18081488, "item_id": 155426}}
+{"name": "add_to_cart", "timestamp": 1515212415, "properites": {"user_id": 18081488, "item_id": 155426}}
+{"name": "search", "timestamp": 1515212416, "properites": {"user_id": 18081488, "query": "dog toys"}}
+{"name": "view", "timestamp": 1515212425, "properites": {"user_id": 18081488, "item_id": 327828}}
+{"name": "add_to_cart", "timestamp": 1515212426, "properites": {"user_id": 18081488, "item_id": 327828}}
+{"name": "checkout", "timestamp": 1515212483, "properites": {"user_id": 18081488, "price": 32.49, "item_ids": [155426, 327828]}}
+{"name": "search", "timestamp": 1515212407, "properites": {"user_id": 6040561, "query": "cards"}}
+{"name": "view", "timestamp": 1515212414, "properites": {"user_id": 6040561, "item_id": 791762}}
+{"name": "add_to_cart", "timestamp": 1515212415, "properites": {"user_id": 6040561, "item_id": 791762}}
+{"name": "search", "timestamp": 1515212418, "properites": {"user_id": 6040561, "query": "rings"}}
+{"name": "view", "timestamp": 1515212425, "properites": {"user_id": 6040561, "item_id": 155426}}
+{"name": "add_to_cart", "timestamp": 1515212426, "properites": {"user_id": 6040561, "item_id": 155426}}
+{"name": "checkout", "timestamp": 1515212465, "properites": {"user_id": 6040561, "price": 32.4, "item_ids": [791762, 155426]}}
+{"name": "search", "timestamp": 1515212404, "properites": {"user_id": 82419332, "query": "jewelry"}}
+{"name": "view", "timestamp": 1515212413, "properites": {"user_id": 82419332, "item_id": 523891}}
+{"name": "view", "timestamp": 1515212418, "properites": {"user_id": 82419332, "item_id": 523891}}
+{"name": "search", "timestamp": 1515212421, "properites": {"user_id": 82419332, "query": "jewelry"}}
+{"name": "view", "timestamp": 1515212426, "properites": {"user_id": 82419332, "item_id": 327828}}
+{"name": "search", "timestamp": 1515212429, "properites": {"user_id": 82419332, "query": "dog toys"}}
+{"name": "view", "timestamp": 1515212438, "properites": {"user_id": 82419332, "item_id": 695215}}
+{"name": "view", "timestamp": 1515212446, "properites": {"user_id": 82419332, "item_id": 695215}}
+{"name": "view", "timestamp": 1515212455, "properites": {"user_id": 82419332, "item_id": 695215}}
+{"name": "add_to_cart", "timestamp": 1515212456, "properites": {"user_id": 82419332, "item_id": 695215}}
+{"name": "checkout", "timestamp": 1515212486, "properites": {"user_id": 82419332, "price": 6.03, "item_ids": [695215]}}
+{"name": "search", "timestamp": 1515212405, "properites": {"user_id": 50464262, "query": "cards"}}
+{"name": "view", "timestamp": 1515212414, "properites": {"user_id": 50464262, "item_id": 695215}}
+{"name": "search", "timestamp": 1515212417, "properites": {"user_id": 50464262, "query": "shirts"}}
+{"name": "view", "timestamp": 1515212427, "properites": {"user_id": 50464262, "item_id": 609159}}
+{"name": "search", "timestamp": 1515212428, "properites": {"user_id": 50464262, "query": "cards"}}
+{"name": "view", "timestamp": 1515212437, "properites": {"user_id": 50464262, "item_id": 609159}}
